@@ -477,7 +477,7 @@ header.scrolled .nav {
   border: 1px solid rgba(100,160,220,0.2);
 }
 
-.hero-badge {
+/* .hero-badge {
   position: absolute;
   bottom: -18px;
   right: -18px;
@@ -507,7 +507,7 @@ header.scrolled .nav {
 
 @media (max-width: 900px) {
   .hero-badge { display: none; }
-}
+} */
 
 /* ---------- Scroll-down cue ---------- */
 .scroll-cue {
